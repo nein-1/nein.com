@@ -1,8 +1,9 @@
-name: Azure Static Web Apps CI/CD
+name: LUIZ CARLOS 
 
 on:
   push:
-    branches:
+    branches:WS
+    
       - main
   pull_request:
     types: [opened, synchronize, reopened, closed]
